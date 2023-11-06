@@ -8,7 +8,7 @@
 - [Antoine Weemaels](https://github.com/AntoineWeemaels)
 - [Gui D'Haene](https://github.com/JonesJugHead)
 - [Tony Vonhoegen](https://github.com/tony-vonhoegen)
-- [Bartek BartekKrz](https://github.com/BartekKrz)
+- [Bartek Krinsky](https://github.com/BartekKrz)
 - [Aurélien Dekesel](https://github.com/Vaaman42)
 - [Jonathan Manes](https://github.com/manesjonathan)
 
