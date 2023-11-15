@@ -3,7 +3,7 @@
 **Sparkle** est une société de **développement de produits numériques** composée d'une équipe exceptionnelle, dévouée à la création de solutions numériques innovantes. Notre équipe se compose de passionnés et d'experts du domaine, chacun apportant son propre talent et sa vision unique pour atteindre l'excellence. Voici les visages derrière Sparkle :
 
 - [Renaud Dumont](https://github.com/mrrenaud)
-- [Valentin Taleb](https://github.com/ValentinTaleb) 
+- [Valentin Taleb](https://github.com/valentin-sparkle) 
 - [Bruno Moureau](https://github.com/BrunoMoureau)
 - [Antoine Weemaels](https://github.com/AntoineWeemaels)
 - [Gui D'Haene](https://github.com/JonesJugHead)
