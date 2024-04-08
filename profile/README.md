@@ -6,6 +6,7 @@
 - [Valentin Taleb](https://github.com/valentin-sparkle) 
 - [Bruno Moureau](https://github.com/BrunoMoureau)
 - [Antoine Weemaels](https://github.com/AntoineWeemaels)
+- [Junior Capellen](https://github.com/rude-seagull)
 - [Gui D'Haene](https://github.com/JonesJugHead)
 - [Tony Vonhoegen](https://github.com/tony-vonhoegen)
 - [Bartek Krynski](https://github.com/BartekKrz)
