@@ -10,7 +10,6 @@
 - [Gui D'Haene](https://github.com/JonesJugHead)
 - [Tony Vonhoegen](https://github.com/tony-vonhoegen)
 - [Bartek Krynski](https://github.com/BartekKrz)
-- [Aurélien Dekesel](https://github.com/Vaaman42)
 - [Jonathan Manes](https://github.com/manesjonathan)
 
 Chez Sparkle, notre mission est d'aider les startups et entrepreneurs à donner vie à leurs idées et à façonner les outils et services numériques de demain. Nous comprenons que chaque étape du développement est cruciale, de la conception initiale à la mise en production, et nous sommes là pour vous accompagner tout au long de ce voyage passionnant.
