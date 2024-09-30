@@ -5,11 +5,12 @@
 - [Renaud Dumont](https://github.com/mrrenaud)
 - [Bruno Moureau](https://github.com/BrunoMoureau)
 - [Antoine Weemaels](https://github.com/AntoineWeemaels)
-- [Junior Capellen](https://github.com/rude-seagull)
 - [Gui D'Haene](https://github.com/JonesJugHead)
 - [Tony Vonhoegen](https://github.com/tony-vonhoegen)
-- [Bartek Krynski](https://github.com/BartekKrz)
 - [Jonathan Manes](https://github.com/manesjonathan)
+- [Bartek Krynski](https://github.com/BartekKrz)
+- [Junior Capellen](https://github.com/rude-seagull)
+- [Samuel Hendrick](https://github.com/HendrickSamuel)
 
 Chez Sparkle, notre mission est d'aider les startups et entrepreneurs à donner vie à leurs idées et à façonner les outils et services numériques de demain. Nous comprenons que chaque étape du développement est cruciale, de la conception initiale à la mise en production, et nous sommes là pour vous accompagner tout au long de ce voyage passionnant.
 
