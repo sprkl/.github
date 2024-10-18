@@ -11,6 +11,7 @@
 - [Bartek Krynski](https://github.com/BartekKrz)
 - [Junior Capellen](https://github.com/rude-seagull)
 - [Samuel Hendrick](https://github.com/HendrickSamuel)
+- [Fred Carbonnelle](https://github.com/fredsecondsquare)
 
 Chez Sparkle, notre mission est d'aider les startups et entrepreneurs à donner vie à leurs idées et à façonner les outils et services numériques de demain. Nous comprenons que chaque étape du développement est cruciale, de la conception initiale à la mise en production, et nous sommes là pour vous accompagner tout au long de ce voyage passionnant.
 
