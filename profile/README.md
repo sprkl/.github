@@ -1,6 +1,6 @@
-# Sparkle ✨
+# sparkle.tech ✨
 
-**Sparkle** est une société de **développement de produits numériques** composée d'une équipe exceptionnelle, dévouée à la création de solutions numériques innovantes. Notre équipe se compose de passionnés et d'experts du domaine, chacun apportant son propre talent et sa vision unique pour atteindre l'excellence. Voici les visages derrière Sparkle :
+**Sparkle.tech** est une société de **développement de produits numériques** composée d'une équipe exceptionnelle, dévouée à la création de solutions numériques innovantes. Notre équipe se compose de passionnés et d'experts du domaine, chacun apportant son propre talent et sa vision unique pour atteindre l'excellence. Voici les visages derrière Sparkle :
 
 - [Renaud Dumont](https://github.com/mrrenaud)
 - [Bruno Moureau](https://github.com/BrunoMoureau)
@@ -14,8 +14,8 @@
 - [Fred Carbonnelle](https://github.com/fredcarbonnelle)
 - [Victor Santelé](https://github.com/vsantele)
 
-Chez Sparkle, notre mission est d'aider les startups et entrepreneurs à donner vie à leurs idées et à façonner les outils et services numériques de demain. Nous comprenons que chaque étape du développement est cruciale, de la conception initiale à la mise en production, et nous sommes là pour vous accompagner tout au long de ce voyage passionnant.
+Chez sparkle.tech, notre mission est d'aider les startups et entrepreneurs à donner vie à leurs idées et à façonner les outils et services numériques de demain. Nous comprenons que chaque étape du développement est cruciale, de la conception initiale à la mise en production, et nous sommes là pour vous accompagner tout au long de ce voyage passionnant.
 
 Notre approche va au-delà du simple développement technique. Nous vous aidons à construire une vision solide, à comprendre l'impact de vos décisions business sur le développement de votre projet, et à prendre les meilleures décisions pour réussir à délivrer continuellement dans les meilleurs délais.
 
-Sparkle s'est spécialisé dans l'utilisation de technologies largement adoptées telles que .NET, NextJS et React Native. Ces outils de pointe nous permettent de créer des produits numériques de qualité.
+sparkle.tech s'est spécialisé dans l'utilisation de technologies largement adoptées telles que .NET, NextJS et React Native. Ces outils de pointe nous permettent de créer des produits numériques de qualité.
