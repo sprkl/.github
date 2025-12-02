@@ -8,7 +8,6 @@
 - [Gui D'Haene](https://github.com/JonesJugHead)
 - [Tony Vonhoegen](https://github.com/tony-vonhoegen)
 - [Jonathan Manes](https://github.com/manesjonathan)
-- [Bartek Krynski](https://github.com/BartekKrz)
 - [Junior Capellen](https://github.com/rude-seagull)
 - [Samuel Hendrick](https://github.com/HendrickSamuel)
 - [Fred Carbonnelle](https://github.com/fredcarbonnelle)
