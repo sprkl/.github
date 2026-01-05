@@ -6,7 +6,6 @@
 - [Bruno Moureau](https://github.com/BrunoMoureau)
 - [Antoine Weemaels](https://github.com/AntoineWeemaels)
 - [Gui D'Haene](https://github.com/JonesJugHead)
-- [Tony Vonhoegen](https://github.com/tony-vonhoegen)
 - [Jonathan Manes](https://github.com/manesjonathan)
 - [Junior Capellen](https://github.com/rude-seagull)
 - [Samuel Hendrick](https://github.com/HendrickSamuel)
