@@ -1,6 +1,75 @@
 # sparkle.tech ✨
 
-**Sparkle.tech** est une société de **développement de produits numériques** composée d'une équipe exceptionnelle, dévouée à la création de solutions numériques innovantes. Notre équipe se compose de passionnés et d'experts du domaine, chacun apportant son propre talent et sa vision unique pour atteindre l'excellence. Voici les visages derrière Sparkle :
+<img width="800" height="400" alt="Développons votre projet web, mobile & IA" src="https://github.com/user-attachments/assets/d57044b9-d485-459f-a988-e87d31113f41" />
+
+## Modern Software Agency
+
+**Sparkle.tech** est une société de développement de produits numériques basée en Belgique.  
+Nous accompagnons des entrepreneurs ambitieux et des organisations innovantes dans la conception, la structuration et la réalisation de leurs produits digitaux.
+
+Nous ne faisons pas "juste du développement".  
+Nous intervenons comme **partenaire technique senior**, avec une forte culture produit.
+
+---
+
+## 🎯 Notre mission
+
+Aider les porteurs de projets à :
+
+- Clarifier leur vision produit
+- Structurer une roadmap réaliste et évolutive
+- Construire une architecture robuste et maintenable
+- Délivrer en continu, avec exigence et pragmatisme
+
+Nous croyons que le code est un levier stratégique.  
+Pas une simple exécution.
+
+---
+
+## 🧠 Notre approche
+
+Chez Sparkle, nous mettons l’accent sur :
+
+- La qualité architecturale
+- La maintenabilité long terme
+- La compréhension des enjeux business
+- La collaboration étroite avec nos clients
+- L'amélioration continue
+
+Nous travaillons comme une extension des équipes produit.
+
+---
+
+## 🤖 IA & nouvelles pratiques
+
+Nous explorons activement l’impact de l’IA sur la manière de concevoir et développer des produits :
+
+- AI-assisted development
+- Intégration de LLM dans les produits
+- Automatisation intelligente
+- Optimisation des workflows techniques
+
+Nous adoptons pleinement l'IA, en y cherchant de la valeur concrète, à mettre au profit de nos clients et partenaires.
+
+---
+
+## 🛠 Technologies principales
+
+Nous construisons principalement avec :
+
+- C# / .NET
+- TypeScript
+- React
+- React Native / Expo
+- Next.js / TanStack
+
+Des choix technologiques éprouvés, pensés pour durer.
+
+---
+
+## 👥 L’équipe
+
+Voici les développeurs et experts derrière Sparkle :
 
 - [Renaud Dumont](https://github.com/mrrenaud)
 - [Bruno Moureau](https://github.com/BrunoMoureau)
@@ -12,8 +81,13 @@
 - [Fred Carbonnelle](https://github.com/fredcarbonnelle)
 - [Victor Santelé](https://github.com/vsantele)
 
-Chez sparkle.tech, notre mission est d'aider les startups et entrepreneurs à donner vie à leurs idées et à façonner les outils et services numériques de demain. Nous comprenons que chaque étape du développement est cruciale, de la conception initiale à la mise en production, et nous sommes là pour vous accompagner tout au long de ce voyage passionnant.
+---
 
-Notre approche va au-delà du simple développement technique. Nous vous aidons à construire une vision solide, à comprendre l'impact de vos décisions business sur le développement de votre projet, et à prendre les meilleures décisions pour réussir à délivrer continuellement dans les meilleurs délais.
+🌍 Nous organisons également le **DevDay**, une conférence développeur majeure en Wallonie, pour contribuer activement à l’écosystème tech local.
 
-sparkle.tech s'est spécialisé dans l'utilisation de technologies largement adoptées telles que .NET, NextJS et React Native. Ces outils de pointe nous permettent de créer des produits numériques de qualité.
+<img width="410" height="135" alt="image" src="https://github.com/user-attachments/assets/3eadbfd2-7198-4923-9a59-10f05f802e17" />
+
+
+---
+
+Si vous construisez un produit ambitieux et cherchez un partenaire technique exigeant et engagé ➡️ parlons-en.
